@@ -1,4 +1,4 @@
-# [태상이의 훈련소 생활 성공 - 골드 5](https://www.acmicpc.net/problem/19951)
+# [태상이의 훈련소 생활 - 골드 5](https://www.acmicpc.net/problem/19951)
 
 
 | 시간 제한 | 메모리 제한 | 제출 | 정답 | 맞힌 사람 | 정답 비율 |
