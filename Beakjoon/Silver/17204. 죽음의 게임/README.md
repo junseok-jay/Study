@@ -1,4 +1,4 @@
-# [죽음의 게임 성공 - 실버 3](https://www.acmicpc.net/problem/17204)
+# [죽음의 게임 - 실버 3](https://www.acmicpc.net/problem/17204)
 
 
 | 시간 제한 | 메모리 제한 | 제출 | 정답 | 맞힌 사람 | 정답 비율 |
